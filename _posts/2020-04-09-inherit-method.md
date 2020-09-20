@@ -8,6 +8,15 @@ header-img: "img/blog-bg.jpg"
 tags:
     - C++
 ---
+访问说明符|public
+类外用户|√
+- df
+
+访问说明符|public|private
+类外用户|√|×
+- df
+访问说明符|public|private|protected
+类外用户|√|×|×
 # 1. 类中的访问说明符
 ```cpp
 class Parent{
