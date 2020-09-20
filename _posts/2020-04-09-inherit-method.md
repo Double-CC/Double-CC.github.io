@@ -9,16 +9,7 @@ tags:
     - C++
 ---
 test|public
-test|√
-- df
-访问说明|public|private
-类外用户|yes|no
--df
-访问说明符|public|private
-类外用户|√|×
-- df
-访问说明符|public|private|protected
-类外用户|√|×|×
+test|yes
 # 1. 类中的访问说明符
 ```cpp
 class Parent{
