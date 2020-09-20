@@ -8,7 +8,9 @@ header-img: "img/blog-bg.jpg"
 tags:
     - C++
 ---
-
+|test|test|
+|-|-|
+|1|2|
 # 1. 类中的访问说明符
 ```cpp
 class Parent{
