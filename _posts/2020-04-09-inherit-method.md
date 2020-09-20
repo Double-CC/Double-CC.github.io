@@ -8,10 +8,12 @@ header-img: "img/blog-bg.jpg"
 tags:
     - C++
 ---
-访问说明符|public
-类外用户|√
+test|public
+test|√
 - df
-
+访问说明|public|private
+类外用户|yes|no
+-df
 访问说明符|public|private
 类外用户|√|×
 - df
