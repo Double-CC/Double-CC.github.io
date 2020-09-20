@@ -8,10 +8,6 @@ header-img: "img/blog-bg.jpg"
 tags:
     - C++
 ---
-
-test|test
-1|2
-3|4
 # 1. 类中的访问说明符
 ```cpp
 class Parent{
@@ -23,11 +19,14 @@ protected:
 	...
 };
 ```
+
 访问说明符|public|private|protected
+|-|-|-|-|
 类外用户|√|×|×
 类内成员|√|√|√
 派生类成员|√|×|√
 友元|√|√|√
+
 # 2. 派生类的继承方式说明符
 
 ```cpp
