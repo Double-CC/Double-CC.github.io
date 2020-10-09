@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "My First Blog"
+title:      "README"
 subtitle:   "lets begin"
 date:       2020-09-18
 author:     "CT"
