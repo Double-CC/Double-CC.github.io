@@ -2,7 +2,7 @@
 layout:     post
 title:      "极大似然估计解决线性回归问题（频率派）"
 subtitle:   "lets begin"
-date:       2020-05-06
+date:       2020-05-03
 author:     "CT"
 header-img: "img/blog-bg.jpg"
 tags:

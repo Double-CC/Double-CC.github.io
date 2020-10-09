@@ -2,7 +2,7 @@
 layout:     post
 title:      "高斯回归(Gaussian Processes)"
 subtitle:   "chaitong"
-date:       2020-04-09
+date:       2020-05-09
 author:     "CT"
 header-img: "img/blog-bg.jpg"
 tags:

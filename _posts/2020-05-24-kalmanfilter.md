@@ -2,7 +2,7 @@
 layout:     post
 title:      "卡尔曼滤波：高斯过程 + 贝叶斯推断"
 subtitle:   "chaitong"
-date:       2020-05-30
+date:       2020-05-24
 author:     "CT"
 header-img: "img/blog-bg.jpg"
 tags:
